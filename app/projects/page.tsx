@@ -16,11 +16,6 @@ const SeanTRGPage: React.FC = () => {
 
       {/* Main Card */}
       <div style={{ padding: '2rem', textAlign: 'center' }}>
-        <img
-          src="https://r2.guns.lol/f5c5c139-4124-4e96-9116-834f274dda98.png"
-          alt="Avatar"
-          style={{ borderRadius: '50%', width: '120px', height: '120px' }}
-        />
         <h1 style={{ fontWeight: 600, fontSize: '39.5px', margin: '1rem 0 0.5rem' }}>SeanTRG</h1>
         <h3 style={{ fontWeight: 570, fontSize: '19px' }}>Hi! My name is Sean and I'm a 13 year old tech nerd that had enough imagination to make this site for no reason :P</h3>
 
