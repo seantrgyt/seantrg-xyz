@@ -33,7 +33,7 @@ const SeanTRGPage: React.FC = () => {
           <a href="https://steamcommunity.com/id/seantrg" target="_blank" rel="noopener noreferrer">Steam</a>
           <a href="https://roblox.com/users/1095648854/profile" target="_blank" rel="noopener noreferrer">Roblox</a>
           <a href="https://instagram.com/itsseantrg" target="_blank" rel="noopener noreferrer">Instagram</a>
-          <a href="https://tiktok.com/itsseantrg" target="_blank" rel="noopener noreferrer">TikTok</a>
+          <a href="https://tiktok.com/@itsseantrg" target="_blank" rel="noopener noreferrer">TikTok</a>
         </div>
       </div>
 
