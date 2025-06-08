@@ -26,38 +26,13 @@ const SeanTRGPage: React.FC = () => {
 
         {/* Social Links */}
         <div style={{ marginTop: '1.5rem', display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
-          <a href="https://youtube.com/@seantrg" target="_blank" rel="noopener noreferrer" style={...}>
-  <img src="./icons/yt.png" alt="YouTube" style={{ width: 24, height: 24 }} />
-  <span>YouTube</span>
-</a>
-<a href="https://x.com/seantrg" target="_blank" rel="noopener noreferrer" style={...}>
-  <img src="./icons/x.png" alt="X" style={{ width: 24, height: 24 }} />
-  <span>X</span>
-</a>
-<a href="https://bsky.app/profile/seantrg.bsky.social" target="_blank" rel="noopener noreferrer" style={...}>
-  <img src="./icons/bsky.png" alt="Bluesky" style={{ width: 24, height: 24 }} />
-  <span>Bluesky</span>
-</a>
-<a href="https://twitch.tv/seantrg" target="_blank" rel="noopener noreferrer" style={...}>
-  <img src="./icons/tw.png" alt="Twitch" style={{ width: 24, height: 24 }} />
-  <span>Twitch</span>
-</a>
-<a href="https://steamcommunity.com/id/seantrg" target="_blank" rel="noopener noreferrer" style={...}>
-  <img src="./icons/ste.png" alt="Steam" style={{ width: 24, height: 24 }} />
-  <span>Steam</span>
-</a>
-<a href="https://www.roblox.com/users/1095648854/profile" target="_blank" rel="noopener noreferrer" style={...}>
-  <img src="./icons/ro.png" alt="Roblox" style={{ width: 24, height: 24 }} />
-  <span>Roblox</span>
-</a>
-<a href="https://instagram.com/itsseantrg" target="_blank" rel="noopener noreferrer" style={...}>
-  <img src="./icons/insta.png" alt="Instagram" style={{ width: 24, height: 24 }} />
-  <span>Instagram</span>
-</a>
-<a href="https://tiktok.com/@itsseantrg" target="_blank" rel="noopener noreferrer" style={...}>
-  <img src="./icons/tt.png" alt="TikTok" style={{ width: 24, height: 24 }} />
-  <span>Tiktok</span>
-</a>
+          <a href="https://youtube.com/@seantrg" target="_blank" rel="noopener noreferrer">YouTube</a>Add commentMore actions
+          <a href="https://x.com/SeanTRG" target="_blank" rel="noopener noreferrer">X (Twitter)</a>
+          <a href="https://twitch.tv/seantrglive" target="_blank" rel="noopener noreferrer">Twitch</a>
+          <a href="https://steamcommunity.com/id/seantrg" target="_blank" rel="noopener noreferrer">Steam</a>
+          <a href="https://roblox.com/users/1095648854/profile" target="_blank" rel="noopener noreferrer">Roblox</a>
+          <a href="https://instagram.com/itsseantrg" target="_blank" rel="noopener noreferrer">Instagram</a>
+          <a href="https://tiktok.com/itsseantrg" target="_blank" rel="noopener noreferrer">TikTok</a>
         </div>
       </div>
 
