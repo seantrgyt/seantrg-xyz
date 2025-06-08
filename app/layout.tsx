@@ -18,6 +18,7 @@ export default function RootLayout({
           href="https://api.fontshare.com/v2/css?f[]=satoshi@1&display=swap"
           rel="stylesheet"
         />
+        <link rel="icon" type="image/png" href="/trg.png" />
         <style>{`
           body {
             margin: 0;
