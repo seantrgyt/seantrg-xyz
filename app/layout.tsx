@@ -3,7 +3,7 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '@SeanTRG | guns.lol',
+  title: 'SeanTRG',
   description: 'your local memer',
 };
 
