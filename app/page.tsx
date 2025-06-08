@@ -5,7 +5,6 @@ const SeanTRGPage: React.FC = () => {
     <div style={{ backgroundColor: '#080808', color: '#FFFFFF', fontFamily: 'Satoshi, sans-serif' }}>
       {/* Background Image */}
       <div style={{
-        backgroundImage: 'url(https://r2.guns.lol/70d169d9-24a0-4497-9444-9aadaedb9d96.png)',
         position: 'fixed',
         width: '100%',
         height: '100%',
