@@ -16,7 +16,7 @@ const SeanTRGPage: React.FC = () => {
 
       {/* Main Card */}
       <div style={{ padding: '2rem', textAlign: 'center' }}>
-        <h1 style={{ fontWeight: 600, fontSize: '39.5px', margin: '1rem 0 0.5rem' }}>SeanTRG</h1>
+        <h1 style={{ fontWeight: 600, fontSize: '39.5px', margin: '1rem 0 0.5rem' }}>Projects</h1>
 
         {/* Social Links */}
         <div style={{ marginTop: '1.5rem', display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
