@@ -26,8 +26,9 @@ const SeanTRGPage: React.FC = () => {
 
         {/* Social Links */}
         <div style={{ marginTop: '1.5rem', display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
-          <a href="https://youtube.com/@seantrg" target="_blank" rel="noopener noreferrer">YouTube</a>Add commentMore actions
-          <a href="https://x.com/SeanTRG" target="_blank" rel="noopener noreferrer">X (Twitter)</a>
+          <a href="https://youtube.com/@seantrg" target="_blank" rel="noopener noreferrer">YouTube</a>
+          <a href="https://bsky.app/profile/seantrg.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a>
+          <a href="https://x.com/SeanTRG" target="_blank" rel="noopener noreferrer">X</a>
           <a href="https://twitch.tv/seantrglive" target="_blank" rel="noopener noreferrer">Twitch</a>
           <a href="https://steamcommunity.com/id/seantrg" target="_blank" rel="noopener noreferrer">Steam</a>
           <a href="https://roblox.com/users/1095648854/profile" target="_blank" rel="noopener noreferrer">Roblox</a>
