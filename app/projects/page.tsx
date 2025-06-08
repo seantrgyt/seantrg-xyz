@@ -1,6 +1,6 @@
-import React from 'react';Add commentMore actions
+import React from 'react';
 
-const SeanTRGPage: React.FC = () => {
+const ProjectsPage: React.FC = () => {
   return (
     <div style={{ backgroundColor: '#080808', color: '#FFFFFF', fontFamily: 'Satoshi, sans-serif' }}>
       {/* Background Image */}
