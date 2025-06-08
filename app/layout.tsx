@@ -2,8 +2,8 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '@SeanTRG | guns.lol',
-  description: 'your local memer',
+  title: 'SeanTRG',
+  description: 'Check out my socials!',
 };
 
 export default function RootLayout({
