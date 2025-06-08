@@ -34,7 +34,7 @@ const SeanTRGPage: React.FC = () => {
           <a href="https://roblox.com/users/1095648854/profile" target="_blank" rel="noopener noreferrer">Roblox</a>
           <a href="https://instagram.com/itsseantrg" target="_blank" rel="noopener noreferrer">Instagram</a>
           <a href="https://tiktok.com/@itsseantrg" target="_blank" rel="noopener noreferrer">TikTok</a>
-          <a href="/projects" target="_blank" rel="noopener noreferrer">Projects</a>
+          <a href="/projects">Projects</a>
         </div>
       </div>
 
