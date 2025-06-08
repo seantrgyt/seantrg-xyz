@@ -20,6 +20,7 @@ const SeanTRGPage: React.FC = () => {
 
         {/* Social Links */}
         <div style={{ marginTop: '1.5rem', display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
+          <a href="/">Back</a>
           <a href="https://acrevival.seantrg.xyz" target="_blank" rel="noopener noreferrer">AC Revival</a>
         </div>
       </div>
