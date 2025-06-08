@@ -39,6 +39,16 @@ const SeanTRGPage: React.FC = () => {
 
       {/* NOTE: External script effects like cursor-effects.js, Cloudflare turnstile, and Web Workers should be implemented via useEffect or useScript hook if needed. */}
     </div>
+'use client';
+import Link from './app/projects.tsx';
+
+export default function HomePage() {
+  return (
+    <main style={{ padding: '2rem' }}>
+      <h1>Home Page</h1>
+      <Link href="/projects">
+      </Link>
+    </main>
   );
 };
 
