@@ -17,7 +17,6 @@ const SeanTRGPage: React.FC = () => {
       {/* Main Card */}
       <div style={{ padding: '2rem', textAlign: 'center' }}>
         <h1 style={{ fontWeight: 600, fontSize: '39.5px', margin: '1rem 0 0.5rem' }}>SeanTRG</h1>
-        <h3 style={{ fontWeight: 570, fontSize: '19px' }}>Hi! My name is Sean and I'm a 13 year old tech nerd that had enough imagination to make this site for no reason :P</h3>
 
         {/* Social Links */}
         <div style={{ marginTop: '1.5rem', display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
