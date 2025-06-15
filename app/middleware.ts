@@ -4,6 +4,6 @@ import type { NextRequest } from 'next/server'
 
 export function middleware(request: NextRequest) {
   if (request.nextUrl.pathname === '/discord') {
-    return NextResponse.redirect('https://discord.gg/yourInviteCodeHere')
+    return NextResponse.redirect('https://youtube.com/@seantrg')
   }
 }
