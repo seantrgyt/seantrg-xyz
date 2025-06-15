@@ -9,6 +9,16 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  async redirects() {
+    return [
+      {
+        source: '/discord',
+        destination: 'https://discord.gg/yourInviteCodeHere', // Replace with your actual invite
+        permanent: true,
+      },
+    ]
+  },
 }
 
 export default nextConfig
+
