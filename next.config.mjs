@@ -13,7 +13,7 @@ const nextConfig = {
     return [
       {
         source: '/discord',
-        destination: 'https://discord.gg/QWQwTbetFR, // Replace with your actual invite
+        destination: 'https://discord.gg/QWQwTbetFR', // Replace with your actual invite
         permanent: true,
       },
     ]
