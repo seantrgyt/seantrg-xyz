@@ -10,5 +10,16 @@ const nextConfig = {
     unoptimized: true,
   },
 }
+module.exports = {
+  async redirects() {
+    return [
+      {
+        source: '/discord',
+        destination: 'https://discord.gg/yourInviteCodeHere',
+        permanent: true,
+      },
+    ]
+  },
+}
 
 export default nextConfig
