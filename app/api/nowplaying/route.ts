@@ -1,5 +1,8 @@
 import { NextResponse } from 'next/server';
 
+export async function GET() {
+  return NextResponse.json({ message: 'working' });
+  
 const LASTFM_USERNAME = 'seantrg';
 const API_KEY = '353376c2e5b54458820bdf63ece2a289';
 
