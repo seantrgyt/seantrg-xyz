@@ -27,7 +27,7 @@ const SeanTRGPage: React.FC = () => {
         />
         <h1 style={{ fontWeight: 600, fontSize: '39.5px', margin: '1rem 0 0.5rem' }}>SeanTRG</h1>
         <h3 style={{ fontWeight: 570, fontSize: '19px' }}>
-          Hi! My name is Sean and I'm a 13 year old tech nerd
+          Hi! My name is Sean and I do stupid tech things sometimes :)
         </h3>
 
         {/* Social Links */}
