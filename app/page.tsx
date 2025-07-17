@@ -52,6 +52,7 @@ const SeanTRGPage: React.FC = () => {
           <a href="/projects">Projects</a>
         </div>
 
+        
         {/* Now Playing Component */}
         <NowPlaying />
       </div>
