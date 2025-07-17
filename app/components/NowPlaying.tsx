@@ -15,7 +15,7 @@ export default function NowPlaying() {
   const [track, setTrack] = useState<Track | null>(null);
 
   useEffect(() => {
-    fetch('/api/now-playing')
+    fetch('/api/nowplaying')
       .then((res) => res.json())
       .then((data) => {
         if (!data.error) setTrack(data);
