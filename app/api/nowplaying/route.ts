@@ -2,7 +2,7 @@
 import { NextResponse } from 'next/server';
 
 const LASTFM_USERNAME = 'seantrg'; // Replace this
-const API_KEY = '353376c2e5b54458820bdf63ece2a289';          // Replace this
+const API_KEY = '353376c2e5b54458820bdf63ece2a289';         // Replace this
 
 export async function GET() {
   try {
@@ -30,8 +30,6 @@ export async function GET() {
       nowPlaying: track['@attr']?.nowplaying === 'true',
     });
   } catch (err) {
-    return NextResponse.json({ error: 'Unexpected error', details: err }, { status: 500 });
+    return NextResponse.json({ error: 'Unexpected error' }, { status: 500 });
   }
 }
-
-
