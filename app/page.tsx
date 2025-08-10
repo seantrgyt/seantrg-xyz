@@ -15,9 +15,6 @@ const SeanTRGPage: React.FC = () => {
         }}
       />
 
-      {/* Audio Player */}
-      <audio src="https://r2.guns.lol/6857a187-b134-41ad-a597-57ba1d7fb05a.mp3" loop autoPlay />
-
       {/* Main Card */}
       <div style={{ padding: '2rem', textAlign: 'center' }}>
         <img
